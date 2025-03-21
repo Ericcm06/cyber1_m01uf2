@@ -64,3 +64,10 @@ margin:0;
 
 [Esto es un enlace](http://enti.cat)
 
+
+## Imagenes
+
+![LOGO MARKDOWN](https://en.wikipedia.org/wiki/File:Markdown-mark.svg)
+
+
+
