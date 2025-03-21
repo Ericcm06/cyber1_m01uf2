@@ -67,7 +67,7 @@ margin:0;
 
 ## Imagenes
 
-![LOGO MARKDOWN](https://en.wikipedia.org/wiki/File:Markdown-mark.svg)
+![LOGO MARKDOWN]([https://en.wikipedia.org/wiki/File:Markdown-mark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png))
 
 
 
